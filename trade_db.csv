@@ -1,0 +1,3 @@
+signal_id,trade_id,pair,position,take_profit,stop_loss
+700,138,EUR_CAD,BUY,1.55700,1.54800
+701,146,EUR_CAD,SELL,1.54800,1.55700
